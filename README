@@ -1,3 +1,6 @@
 Not meant for any public usage. Just needed to clobber something together really quick to disassemble some PPC when I was unable to run PyiiASMH or Dolphin-Emu.
 
 You can easily cut 1000+ lines of code off this and fix the "searching" algorithm to be much faster. Might as well post it on my github. You need the fmt-lib installed before compiling.
+
+sudo apt update
+sudo apt install libfmt-dev
